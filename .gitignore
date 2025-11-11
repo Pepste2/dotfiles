@@ -1,0 +1,8 @@
+# 忽略 Oh My Zsh custom 目录下的 Git 仓库
+.oh-my-zsh/custom/plugins/zsh-autosuggestions/.git
+.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git
+.oh-my-zsh/custom/themes/powerlevel10k/.git
+# tmux git
+.tmux/plugins/tmux-sensible
+.tmux/plugins/tmux-powerline
+.tmux/plugins/tpm
